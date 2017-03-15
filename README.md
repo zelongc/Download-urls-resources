@@ -1,7 +1,7 @@
-# a downloader python3.6
-author: zelong cong
-        university of melbourne
-        15 march 2017
+# a downloader python3.6.
+Author: zelong cong.
+        university of melbourne.
+        15 march 2017.
 
 This tool is for downloading a list of urls internet resources. for example, pics.
 
